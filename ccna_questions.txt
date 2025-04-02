@@ -1,0 +1,468 @@
+What is the purpose of a default gateway?
+A. To forward packets to remote networks
+B. To assign IP addresses dynamically
+C. To translate domain names to IP addresses
+D. To block unauthorized access
+A
+
+Which layer of the OSI model is responsible for logical addressing?
+A. Physical
+B. Data Link
+C. Network
+D. Transport
+C
+
+What protocol is used to securely access a network device remotely?
+A. Telnet
+B. FTP
+C. SSH
+D. HTTP
+C
+
+What command is used to display the current configuration of a Cisco router?
+A. show ip route
+B. show running-config
+C. show interfaces
+D. show startup-config
+B
+
+What is the primary function of STP (Spanning Tree Protocol)?
+A. Prevent routing loops
+B. Prevent switching loops
+C. Secure network traffic
+D. Assign IP addresses
+B
+
+Which subnet mask would you use for a /26 network?
+A. 255.255.255.0
+B. 255.255.255.192
+C. 255.255.255.224
+D. 255.255.255.128
+B
+
+Which command is used to enter privileged EXEC mode on a Cisco device?
+A. enable
+B. config t
+C. show running-config
+D. interface gigabitEthernet 0/1
+A
+
+What is the default administrative distance of OSPF?
+A. 90
+B. 110
+C. 120
+D. 1
+B
+
+What type of cable is used to connect a PC to a switch?
+A. Crossover
+B. Straight-through
+C. Console
+D. Roll-over
+B
+
+Which of the following is a layer 2 device?
+A. Router
+B. Switch
+C. Firewall
+D. Server
+B
+
+Which protocol provides automatic IP address configuration?
+A. DNS
+B. DHCP
+C. ICMP
+D. HTTP
+B
+
+Which command is used to configure an IP address on a router's interface?
+A. ip address 192.168.1.1 255.255.255.0
+B. set ip 192.168.1.1 255.255.255.0
+C. configure ip 192.168.1.1 255.255.255.0
+D. ifconfig 192.168.1.1 255.255.255.0
+A
+
+Which routing protocol uses hop count as a metric?
+A. OSPF
+B. EIGRP
+C. RIP
+D. BGP
+C
+
+What command is used to save the current configuration on a Cisco device?
+A. copy running-config startup-config
+B. write memory
+C. save config
+D. both A and B
+D
+
+What protocol is used to resolve an IP address to a MAC address?
+A. DNS
+B. DHCP
+C. ARP
+D. ICMP
+C
+
+Which protocol uses TCP port 443?
+A. HTTP
+B. HTTPS
+C. FTP
+D. Telnet
+B
+
+Which type of NAT allows multiple private IP addresses to share a single public IP?
+A. Static NAT
+B. Dynamic NAT
+C. PAT (Port Address Translation)
+D. DNAT
+C
+
+What is the purpose of VLANs?
+A. To increase network security
+B. To segment a network into smaller broadcast domains
+C. To increase network speed
+D. Both A and B
+D
+
+Which command displays the MAC address table on a switch?
+A. show ip route
+B. show mac address-table
+C. show interfaces
+D. show arp
+B
+
+What is the default administrative distance of EIGRP?
+A. 90
+B. 110
+C. 120
+D. 170
+A
+
+Which protocol is used to send error messages between network devices?
+A. ARP
+B. ICMP
+C. TCP
+D. UDP
+B
+
+Which address is used as a source address in an IPv6 multicast packet?
+A. Unicast address
+B. Multicast address
+C. Link-local address
+D. Anycast address
+C
+
+Which type of OSPF packet is used for neighbor discovery?
+A. Hello
+B. LSA
+C. LSU
+D. ACK
+A
+
+Which of the following is a class B private IP address?
+A. 10.0.0.1
+B. 172.16.0.1
+C. 192.168.1.1
+D. 224.0.0.1
+B
+
+Which command is used to verify connectivity to another network device?
+A. traceroute
+B. ping
+C. telnet
+D. show ip route
+B
+
+Which protocol is used to encrypt VPN traffic?
+A. HTTP
+B. HTTPS
+C. IPsec
+D. DNS
+C
+
+Which command enables SSH on a Cisco router?
+A. ip ssh enable
+B. ssh start
+C. crypto key generate rsa
+D. enable ssh
+C
+
+What type of traffic does a broadcast address send to?
+A. A single device
+B. A specific group of devices
+C. All devices in a network segment
+D. The internet
+C
+
+What is the maximum number of host addresses in a /24 network?
+A. 254
+B. 255
+C. 256
+D. 512
+A
+
+Which command displays the IP routing table on a Cisco router?
+A. show ip interfaces
+B. show interfaces
+C. show ip route
+D. show running-config
+C
+
+What is the purpose of HSRP (Hot Standby Router Protocol)?
+A. Load balancing
+B. Network redundancy
+C. Security encryption
+D. Address translation
+B
+
+What is the default port for HTTP?
+A. 21
+B. 22
+C. 80
+D. 443
+C
+
+Which command disables an interface on a Cisco device?
+A. shutdown
+B. disable
+C. no ip address
+D. no enable
+A
+
+What is the administrative distance of a directly connected route?
+A. 0
+B. 1
+C. 90
+D. 120
+A
+
+Which type of address is 192.168.1.1?
+A. Public IP
+B. Private IP
+C. Multicast IP
+D. APIPA
+B
+
+What does CDP (Cisco Discovery Protocol) do?
+A. Finds and manages network errors
+B. Discovers neighboring Cisco devices
+C. Encrypts traffic
+D. Assigns dynamic IP addresses
+B
+
+Which of the following is an IPv6 address?
+A. 192.168.1.1
+B. 255.255.255.0
+C. FE80::1
+D. 172.16.0.1
+C
+
+Which VLAN is the default on a Cisco switch?
+A. VLAN 0
+B. VLAN 1
+C. VLAN 10
+D. VLAN 100
+B
+
+What is the maximum length of a UTP Ethernet cable?
+A. 50 meters
+B. 100 meters
+C. 150 meters
+D. 200 meters
+B
+
+Which command is used to create a static route?
+A. ip route
+B. route add
+C. set route
+D. static-route
+A
+
+Which protocol dynamically assigns IP addresses to hosts?
+A. DNS
+B. DHCP
+C. ICMP
+D. NTP
+B
+
+What is the purpose of NAT (Network Address Translation)?
+A. Encrypts network traffic
+B. Maps private IP addresses to public IPs
+C. Assigns IP addresses to devices
+D. Prevents broadcast storms
+B
+
+Which protocol is used to synchronize time between network devices?
+A. HTTP
+B. FTP
+C. NTP
+D. SMTP
+C
+
+Which command displays interface status on a switch?
+A. show interfaces status
+B. show ip interface brief
+C. show switchport
+D. show config
+B
+
+What is the loopback address in IPv4?
+A. 127.0.0.1
+B. 192.168.1.1
+C. 10.0.0.1
+D. 0.0.0.0
+A
+
+Which command enables a VLAN on an interface?
+A. switchport mode access
+B. vlan enable
+C. interface vlan 10
+D. switchport vlan 10
+A
+
+What is the default subnet mask for a Class A network?
+A. 255.255.255.0
+B. 255.255.0.0
+C. 255.0.0.0
+D. 255.255.255.128
+C
+
+Which protocol is connectionless?
+A. TCP
+B. UDP
+C. HTTP
+D. FTP
+B
+
+What does the `ping` command test?
+A. DNS resolution
+B. Network connectivity
+C. Network speed
+D. Firewall settings
+B
+
+Which command is used to enable routing on a Cisco router?
+A. ip routing
+B. enable routing
+C. router enable
+D. config routing
+A
+
+What is the purpose of a trunk port on a switch?
+A. To connect two PCs
+B. To carry multiple VLANs
+C. To filter network traffic
+D. To block broadcast storms
+B
+
+Which protocol operates at the transport layer?
+A. IP
+B. ICMP
+C. UDP
+D. ARP
+C
+
+Which command is used to assign an IP address to an interface?
+A. set ip
+B. assign ip
+C. ip address
+D. interface ip
+C
+
+Which command shows active SSH connections on a Cisco device?
+A. show ssh
+B. show active ssh
+C. show ip ssh
+D. show connections
+A
+
+Which type of address is FF00::/8 in IPv6?
+A. Unicast
+B. Multicast
+C. Anycast
+D. Broadcast
+B
+
+What is the function of a default route?
+A. Blocks unwanted traffic
+B. Forwards packets to unknown destinations
+C. Assigns IP addresses
+D. Encrypts traffic
+B
+
+Which command enters global configuration mode?
+A. enable
+B. config t
+C. show running-config
+D. show interfaces
+B
+
+Which command is used to exit a router's configuration mode?
+A. exit
+B. quit
+C. end
+D. Both A and C
+D
+
+What is the function of a DHCP relay agent?
+A. Blocks DHCP traffic
+B. Forwards DHCP requests across networks
+C. Assigns static IP addresses
+D. Filters network traffic
+B
+
+Which command shows ARP table entries on a Cisco device?
+A. show arp
+B. show mac address-table
+C. show ip route
+D. show ip arp
+A
+
+Which protocol is used for email sending?
+A. POP3
+B. IMAP
+C. SMTP
+D. FTP
+C
+
+What is a characteristic of TCP?
+A. Connection-oriented
+B. Connectionless
+C. Faster than UDP
+D. Stateless
+A
+
+What does a router use to determine the best route for a packet?
+A. MAC address table
+B. Routing table
+C. ARP cache
+D. DNS records
+B
+
+Which device operates at layer 1 of the OSI model?
+A. Router
+B. Switch
+C. Hub
+D. Firewall
+C
+
+What is the purpose of a firewall?
+A. To route packets
+B. To filter network traffic
+C. To assign IP addresses
+D. To encrypt data
+B
+
+Which of these is a valid multicast address?
+A. 224.0.0.1
+B. 192.168.1.255
+C. 10.10.10.10
+D. 127.0.0.1
+A
+
+What is the maximum number of VLANs on a standard switch?
+A. 128
+B. 256
+C. 4096
+D. 8192
+C
